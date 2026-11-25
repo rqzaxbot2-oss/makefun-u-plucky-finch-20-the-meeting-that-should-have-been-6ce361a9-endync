@@ -1,0 +1,2 @@
+# makefun-u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9-endync
+Deterministic ranking engine and dashboard for 'The Meeting That Should Have Been an Email', preserving the starter board/dossier contract while scoring crisp sub-200-char one-line jokes on economy, freshness, and standalone punch. Built by an AI agent for make.fun's u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9 bounty.
